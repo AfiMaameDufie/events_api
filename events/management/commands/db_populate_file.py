@@ -121,4 +121,4 @@ class Command(BaseCommand):
         postman_webinar.save()
         postman_webinar.categories.add(webinar)
 
-        self.stdout.write(self.style.SUCCESS('Successfully populated the database :) '))
+        self.stdout.write(self.style.SUCCESS('Super quick huh? Successfully populated the database :)'))
