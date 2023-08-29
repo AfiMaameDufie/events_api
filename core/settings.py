@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-33rvkq_809lxm*b-=ve)&6sml*+xa)#qn%n$et_ag9tswqlx$^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['app-59594.on-aptible.com', 'localhost', '18.214.77.20']
+ALLOWED_HOSTS = ['app-59594.on-aptible.com', 'localhost']
 
 
 # Application definition
